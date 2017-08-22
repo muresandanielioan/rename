@@ -14,7 +14,7 @@ if (process.argv[2]) {
     };
     console.log("\nDaniel Muresan's rename.js => Done.\n");
 } else {
-    console.log("\nDaniel Muresan's rename.js => Please provide the directory name containing the files to be renamed in chronologic order. \n");
+    console.log("\nDaniel Muresan's rename.js => Please provide the directory name containing the files to be renamed in chronological order. \n");
 }
 
 function fileNamesByDate(dir) {
